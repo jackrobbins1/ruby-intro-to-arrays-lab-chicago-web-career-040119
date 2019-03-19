@@ -13,3 +13,7 @@ end
 def third_element(arr)
   arr[2]
 end
+
+def last_element(arr)
+  arr[arr.length-1]
+end
